@@ -1,0 +1,1 @@
+This is my website. It is heavily inspired from pwnwriter.xyz. I hope to make this a better way for me to communicate and connect.
